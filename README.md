@@ -1,2 +1,2 @@
-# Extracting-Stock-Data-Using-a-Python-Library
+# Extracting and Visualizing Stock Data
 Final_Assignment
